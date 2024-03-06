@@ -5,7 +5,7 @@ function App() {
     <>
         <nav className="fixed top-0 left-0 flex items-center p-5 bg-red-500 border-t-4 border-blue-800 w-full z-50 ">
       <div className="items-center mr-5">
-        <div className="text-white text-2xl font-bold">KALVIAN</div>
+        <div className="text-white text-2xl font-bold">KALVIAN ..</div>
       </div>
       <div className="flex flex-1 items-center justify-between ">
         <div className="text-lg flex flex-wrap">
